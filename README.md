@@ -24,7 +24,7 @@ A simple Notes App built using FastAPI and SQLite.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/notes-app.git
+git clone https://github.com/Deepanshuprajapat/notes-app.git
 ```
 
 Go to project folder:
